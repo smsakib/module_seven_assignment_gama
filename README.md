@@ -2,6 +2,8 @@
 
 A new Flutter project.
 Screenshot of the project:
+![Screenshot_20230925_215531](https://github.com/smsakib/module_seven_assignment_gama/assets/27827232/5ece8f47-ad14-4829-bcde-4943243504d5)
+![Screenshot_20230925_215645](https://github.com/smsakib/module_seven_assignment_gama/assets/27827232/9408044c-df53-405c-a2d9-3cf8ac3f763b)
 
 
 ## Getting Started
