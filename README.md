@@ -1,6 +1,8 @@
 # module_seven_assignment_gama
 
 A new Flutter project.
+Screenshot of the project:
+
 
 ## Getting Started
 
